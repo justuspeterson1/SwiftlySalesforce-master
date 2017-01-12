@@ -185,7 +185,7 @@ If you're new to Swift, the Salesforce Platform, or the Salesforce REST API, you
 * [iOS Apps with REST APIs](https://grokswift.com/bookshort/?utm_expid=86885646-0.pSwvTyVzSoG5VWML8NMtRw.1&utm_referrer=https%3A%2F%2Fgrokswift.com%2F): great book for getting started with Swift, REST APIs, JSON, and Alamofire. "Only the nitty gritty that you need to get real work done now: interfacing with your web services and displaying the results in your UI." By Christina Moulton of [GrokSwift](https://twitter.com/GrokSwift) 
 
 ## About Me
-I'm a senior technical '[evangelist](https://en.wikipedia.org/wiki/Technology_evangelist)' at Salesforce, and I work with [ISV](https://en.wikipedia.org/wiki/Independent_software_vendor) partners who are building applications on the Salesforce Platform. 
+I worked with [ISV](https://en.wikipedia.org/wiki/Independent_software_vendor) partners who are building applications on the Salesforce Platform and for now I am at individual activity.
 
 ## Appendix
 
