@@ -187,12 +187,6 @@ If you're new to Swift, the Salesforce Platform, or the Salesforce REST API, you
 ## About Me
 I'm a senior technical '[evangelist](https://en.wikipedia.org/wiki/Technology_evangelist)' at Salesforce, and I work with [ISV](https://en.wikipedia.org/wiki/Independent_software_vendor) partners who are building applications on the Salesforce Platform. 
 
-## Contact
-Questions, suggestions, bug reports and code contributions welcome:
-* Open a [GitHub issue](https://github.com/mike4aday/SwiftlySalesforce/issues)
-* Twitter [@mike4aday]
-* Join the Salesforce [Partner Community] and post to the '[Salesforce + iOS Mobile][sfdc-ios Chatter]' Chatter group
-
 ## Appendix
 
 ### Add Swiftly Salesforce to Your CocoaPods Podfile
